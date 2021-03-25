@@ -1,0 +1,242 @@
+[
+  {
+    "Ward": "A",
+    "Population": 185014,
+    "Malaria": 430,
+    "Dengue": 19,
+    "Tuberculosis": 268,
+    "Diarrhoea": "2,295",
+    "Diabetes": 526,
+    "Hypertension": "1,083"
+  },
+  {
+    "Ward": "B",
+    "Population": 127290,
+    "Malaria": 80,
+    "Dengue": 27,
+    "Tuberculosis": 106,
+    "Diarrhoea": "1,369",
+    "Diabetes": 544,
+    "Hypertension": 505
+  },
+  {
+    "Ward": "C",
+    "Population": 166161,
+    "Malaria": 137,
+    "Dengue": 52,
+    "Tuberculosis": 96,
+    "Diarrhoea": "3,110",
+    "Diabetes": 863,
+    "Hypertension": "1,100"
+  },
+  {
+    "Ward": "D",
+    "Population": 346866,
+    "Malaria": 33,
+    "Dengue": 25,
+    "Tuberculosis": 178,
+    "Diarrhoea": 551,
+    "Diabetes": "1,800",
+    "Hypertension": "2,025"
+  },
+  {
+    "Ward": "E",
+    "Population": 393286,
+    "Malaria": 148,
+    "Dengue": 11,
+    "Tuberculosis": 200,
+    "Diarrhoea": "3,806",
+    "Diabetes": 765,
+    "Hypertension": 810
+  },
+  {
+    "Ward": "F/N",
+    "Population": 529034,
+    "Malaria": 86,
+    "Dengue": 49,
+    "Tuberculosis": 191,
+    "Diarrhoea": "2,894",
+    "Diabetes": 641,
+    "Hypertension": 946
+  },
+  {
+    "Ward": "F/S",
+    "Population": 360972,
+    "Malaria": 679,
+    "Dengue": 7,
+    "Tuberculosis": 200,
+    "Diarrhoea": "4,088",
+    "Diabetes": 166,
+    "Hypertension": 247
+  },
+  {
+    "Ward": "G/N",
+    "Population": 599039,
+    "Malaria": 126,
+    "Dengue": 26,
+    "Tuberculosis": 521,
+    "Diarrhoea": "5,680",
+    "Diabetes": 905,
+    "Hypertension": "1,397"
+  },
+  {
+    "Ward": "G/S",
+    "Population": 377749,
+    "Malaria": 416,
+    "Dengue": 46,
+    "Tuberculosis": 258,
+    "Diarrhoea": "7,908",
+    "Diabetes": 652,
+    "Hypertension": 780
+  },
+  {
+    "Ward": "H/E",
+    "Population": 557239,
+    "Malaria": 90,
+    "Dengue": 59,
+    "Tuberculosis": 558,
+    "Diarrhoea": "5,039",
+    "Diabetes": "1,435",
+    "Hypertension": "1,400"
+  },
+  {
+    "Ward": "H/W",
+    "Population": 307581,
+    "Malaria": 114,
+    "Dengue": 30,
+    "Tuberculosis": 187,
+    "Diarrhoea": "1,481",
+    "Diabetes": 179,
+    "Hypertension": 157
+  },
+  {
+    "Ward": "K/E",
+    "Population": 823885,
+    "Malaria": 142,
+    "Dengue": 205,
+    "Tuberculosis": 247,
+    "Diarrhoea": "6,087",
+    "Diabetes": "1,173",
+    "Hypertension": "1,528"
+  },
+  {
+    "Ward": "K/W",
+    "Population": 748688,
+    "Malaria": 235,
+    "Dengue": 0,
+    "Tuberculosis": 169,
+    "Diarrhoea": "2,216",
+    "Diabetes": 776,
+    "Hypertension": "1,126"
+  },
+  {
+    "Ward": "L",
+    "Population": 902225,
+    "Malaria": 82,
+    "Dengue": 19,
+    "Tuberculosis": 768,
+    "Diarrhoea": "11,505",
+    "Diabetes": "1,831",
+    "Hypertension": "1,909"
+  },
+  {
+    "Ward": "M/E",
+    "Population": 807720,
+    "Malaria": 70,
+    "Dengue": 23,
+    "Tuberculosis": 212,
+    "Diarrhoea": "5,758",
+    "Diabetes": "1,243",
+    "Hypertension": "1,499"
+  },
+  {
+    "Ward": "M/W",
+    "Population": 411893,
+    "Malaria": 33,
+    "Dengue": 6,
+    "Tuberculosis": 199,
+    "Diarrhoea": "1,594",
+    "Diabetes": 265,
+    "Hypertension": 298
+  },
+  {
+    "Ward": "N",
+    "Population": 622853,
+    "Malaria": 56,
+    "Dengue": 57,
+    "Tuberculosis": 139,
+    "Diarrhoea": "4,902",
+    "Diabetes": 605,
+    "Hypertension": 609
+  },
+  {
+    "Ward": "P/N",
+    "Population": 941366,
+    "Malaria": 90,
+    "Dengue": 62,
+    "Tuberculosis": 607,
+    "Diarrhoea": "3,225",
+    "Diabetes": 730,
+    "Hypertension": 543
+  },
+  {
+    "Ward": "P/S",
+    "Population": 463507,
+    "Malaria": 24,
+    "Dengue": 0,
+    "Tuberculosis": 16,
+    "Diarrhoea": 688,
+    "Diabetes": 81,
+    "Hypertension": 76
+  },
+  {
+    "Ward": "R/C",
+    "Population": 562162,
+    "Malaria": 34,
+    "Dengue": 33,
+    "Tuberculosis": 221,
+    "Diarrhoea": "3,926",
+    "Diabetes": "1,179",
+    "Hypertension": "1,151"
+  },
+  {
+    "Ward": "R/N",
+    "Population": 431368,
+    "Malaria": 28,
+    "Dengue": 154,
+    "Tuberculosis": 247,
+    "Diarrhoea": "1,826",
+    "Diabetes": 337,
+    "Hypertension": 237
+  },
+  {
+    "Ward": "R/S",
+    "Population": 691229,
+    "Malaria": 36,
+    "Dengue": 102,
+    "Tuberculosis": 79,
+    "Diarrhoea": 163,
+    "Diabetes": "1,457",
+    "Hypertension": "1,448"
+  },
+  {
+    "Ward": "S",
+    "Population": 743783,
+    "Malaria": 50,
+    "Dengue": 115,
+    "Tuberculosis": 425,
+    "Diarrhoea": "6,328",
+    "Diabetes": 590,
+    "Hypertension": 574
+  },
+  {
+    "Ward": "T",
+    "Population": 341463,
+    "Malaria": 34,
+    "Dengue": 26,
+    "Tuberculosis": 147,
+    "Diarrhoea": "1,759",
+    "Diabetes": 92,
+    "Hypertension": 168
+  }
+]
