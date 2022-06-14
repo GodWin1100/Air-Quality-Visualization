@@ -20,4 +20,4 @@ The app will start on localhost:3000.
 
 ![firestore db ss](public/aqv-db.jpg?raw=true)
 
-## Admin side code link: https://github.com/samy-n/aqv-admin/tree/main
+## Admin side code link: https://github.com/GodWin1100/AQV-admin
